@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Anwesha Sinha!
 
-<!--
-**anweshasinha04/anweshasinha04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.Sc. Data Science student at Guru Nanak Institute of Technology  
+💡 Passionate about data, coding, and solving real-world problems  
+📊 Exploring Python, SQL, and statistics through projects and self-learning  
+💻 Interested in AI, machine learning, and software development  
+✍ Active learner with a strong curiosity and a collaborative mindset  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Skills & Tools
+- Languages: Python (Basics), C, Java  
+- Data: Excel, SQL (Basic), Statistics  
+- Web: HTML, CSS  
+- Soft Skills: Problem Solving, Communication, Analytical Thinking
+
+---
+
+### 🎓 Learning & Involvement
+- 🧠 Continuously learning via online platforms & workshops  
+- 👩‍💻 Member of Bit-2-Byte Coding Club  
+- 🤝 Participated in college tech events and community learning sessions  
+
+---
+
+### 🎯 Goals
+- Build my first data analysis project  
+- Contribute to open-source beginner projects  
+- Deepen knowledge in AI & machine learning
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: anweshasinha545@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/anwesha-sinha-025474323
+
+---
+
+
