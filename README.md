@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anwesha Sinha!
 
-🎓 First-year B.Sc. Data Science student at Guru Nanak Institute of Technology  
+🎓 B.Sc. Data Science student at Guru Nanak Institute of Technology  
 💡 Passionate about data, coding, and solving real-world problems  
 📊 Exploring Python, SQL, and statistics through projects and self-learning  
 💻 Interested in AI, machine learning, and software development  
